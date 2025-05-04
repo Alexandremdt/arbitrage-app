@@ -1,0 +1,21 @@
+{
+    "name": "arbitrage-client",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "4.0.3",
+      "chart.js": "^3.7.1",
+      "axios": "^0.27.2",
+      "tailwindcss": "^3.0.24"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    },
+    "browserslist": {
+      "production": [">0.2%", "not dead", "not op_mini all"],
+      "development": ["last 1 chrome version"]
+    }
+  }
